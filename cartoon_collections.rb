@@ -10,7 +10,7 @@ end
 
 def long_planeteer_calls(calls_array)
   # Your code here
-  calls_array.any?{|word| word.length
+  calls_array.any?{|word| word.length > 4
 end
 
 def find_the_cheese# code an argument here
